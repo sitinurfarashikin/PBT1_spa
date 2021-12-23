@@ -73,11 +73,11 @@
 
                 <tr>
 
-                    <th>Room type</th>
+                    <th>Massage type</th>
 
                     <td>
 
-                        <select name="room" id="room" class="form-control">
+                        <select name="spa" id="spa" class="form-control">
 
                             <option value=""></option>
 
