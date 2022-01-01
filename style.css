@@ -1,0 +1,59 @@
+#intro1 { 
+  font-family: Arial; 
+  color: white; 
+  font-size: 20px; 
+  border-style: double; 
+  text-align: center; 
+  margin: auto; 
+  width: 80%; 
+  padding: 1px; 
+  background-color: #be1558; 
+} 
+
+
+body { 
+background-image: url("image3.jpg"); 
+background-repeat: no-repeat; 
+background-position: right top; 
+padding: 50px; 
+background-attachment: fixed; 
+} 
+
+table { 
+  border-style: solid none none dotted; 
+  margin: 40px 13.5%; 
+   
+} 
+table.center { 
+  margin-left: auto;  
+  margin-right: auto; 
+  margin: auto; 
+} 
+
+button[type=submit], button[type=reset] { 
+  background-color: rgb(231, 160, 7); 
+  border: 0.5rem outset rgb(177, 162, 162); 
+  padding: 10px 50px; 
+  margin-left: 10%; 
+  color: black; 
+  cursor: pointer; 
+  font-family: Arial; 
+  font-size: 20px; 
+} 
+ 
+h1 { 
+  text-align: center; 
+  font-family: Arial; 
+  color: black; 
+} 
+
+.papar { 
+  margin-left: 10%; 
+  width: 74%; 
+  text-align: center; 
+  color: white; 
+  padding: 50px; 
+  font-size: 20px; 
+  font-family: Arial; 
+  background-color: rgb(233, 0, 89); 
+}
